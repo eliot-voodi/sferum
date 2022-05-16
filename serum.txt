@@ -126,3 +126,10 @@ im.vk.com
 imv4.vk.com
 tim.vk.com
 papi.vk.com
+newimv4.vk.com
+imv6.vk.com
+newimv6.vk.com
+pp.vk.com
+pu.vk.com
+stats.vk-portal.net
+sentry.mvk.com
